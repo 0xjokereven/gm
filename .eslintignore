@@ -1,0 +1,4 @@
+*.*
+!*.tsx
+!*.ts
+vite.config.ts
